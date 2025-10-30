@@ -75,6 +75,7 @@ Conclusion
 The analysis reveals that student success is significantly influenced by study habits, age, and subject interest. The more hours students dedicate to studying, the higher their performance tends to be. STEM subjects are consistently associated with better exam scores, while Humanities subjects show more variability. Understanding these patterns can help guide educational strategies, with an emphasis on encouraging consistent study habits and focusing on the subjects with the highest performance.
 
 This dataset provides valuable insights into the relationship between study time, demographics, and academic performance, helping educators and policymakers make informed decisions for better student out
+
 Author: Tanushka Gadhave
 
 Dataset: Student Exam Scores Dataset
